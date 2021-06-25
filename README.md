@@ -6,7 +6,7 @@ This game is about revealing all cells, without clicking on the mine’s locatio
 *	Left click for revealing the cell.
 *	Right Click to flag the cell (that you don't want to reveal, you are guessing, it might have mines).
 *	You will win if non-mines reveal become zero.
-*	You lose if you click on a mine.
+*	You lose if you click on a mine. A timer keeps a check when you end the game.
 
 ## Installation
 *	Install current or latest version of node from https://nodejs.org/en/ for Windows Installer.
@@ -24,6 +24,6 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 * Try playing the game. 
 
 ## Note: [Below outputs may help in quickly evaluating the assessment- Video and Photos]
-* Kindly have a look at the demo video “Demo-MineSweeper-Execution_and_Working” to know how to execute this project and to get an insight into the working of this game. Please contact me if you face difficulty running it on your system.
+* Kindly have a look at the demo video “Demo-MineSweeper-Execution_and_Working” to know how to execute this project and to get an insight into the working of this game. 
 * I have also shared output pictures in the document “Output Pictures” of different events on a separate document. The code has been commented for simplification. 
 
