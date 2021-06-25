@@ -1,4 +1,4 @@
-# Minesweeper using React Redux Javascript
+# Minesweeper using React and Javascript
 
 ## Let me give you a quick heads up on the rules of this game:
 This project demonstrates how a once-popular game- "Minesweeper" could be developed using ReactJS, Redux, and JavaScipt concepts and problem-solving techniques.
